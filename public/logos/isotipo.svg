@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 500 500" style="enable-background:new 0 0 500 500;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:url(#SVGID_00000039124382943340658460000005415357278788497085_);}
+	.st2{fill:#1F293D;}
+	.st3{fill:url(#SVGID_00000043449869374538825760000012839807791592930952_);}
+	.st4{fill:url(#SVGID_00000139994282029477798580000005031745225456460180_);}
+	.st5{fill:#C9FEFF;}
+	.st6{fill:url(#SVGID_00000005233190694536698890000011227796357292490935_);}
+	.st7{fill:#52A1EB;}
+	.st8{fill:#30435E;}
+	.st9{fill:#1B293B;}
+	.st10{fill:#25354C;}
+	.st11{fill:#60B5FD;}
+	.st12{fill:#2561B7;}
+	.st13{fill:#1E3B69;}
+	.st14{fill:#2563BA;}
+</style>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="243.2711" y1="54.3592" x2="85.5169" y2="166.4505">
+	<stop  offset="0" style="stop-color:#C7EBF9"/>
+	<stop  offset="0.1019" style="stop-color:#B7E7FA"/>
+	<stop  offset="0.3068" style="stop-color:#9EE0FB"/>
+	<stop  offset="0.52" style="stop-color:#8CDCFB"/>
+	<stop  offset="0.7447" style="stop-color:#81D9FC"/>
+	<stop  offset="1" style="stop-color:#7ED8FC"/>
+</linearGradient>
+<polygon class="st0" points="56.4,138.1 250,19.7 250,98.6 120.9,177.6 "/>
+<linearGradient id="SVGID_00000029766014276684013560000000246245911756248732_" gradientUnits="userSpaceOnUse" x1="263.7764" y1="65.4571" x2="395.3001" y2="149.137">
+	<stop  offset="0" style="stop-color:#1A65A3"/>
+	<stop  offset="1" style="stop-color:#41608C"/>
+</linearGradient>
+<polygon style="fill:url(#SVGID_00000029766014276684013560000000246245911756248732_);" points="442.7,137.3 376.7,177.6 250,98.6 
+	250,19.7 "/>
+<polygon class="st2" points="376.7,177.6 376.7,327.1 250,404.5 250,479.6 442.7,366.5 442.7,137.3 "/>
+<linearGradient id="SVGID_00000099663671325196147160000012725949192630275751_" gradientUnits="userSpaceOnUse" x1="105.3445" y1="353.6582" x2="229.4987" y2="433.3258">
+	<stop  offset="0" style="stop-color:#1D7EDD"/>
+	<stop  offset="0.4871" style="stop-color:#1472D1"/>
+	<stop  offset="1" style="stop-color:#0860BF"/>
+</linearGradient>
+<polygon style="fill:url(#SVGID_00000099663671325196147160000012725949192630275751_);" points="121.7,330.1 250,404.5 250,479.6 
+	56.4,364.3 "/>
+<linearGradient id="SVGID_00000036940032718039963060000018271366601434838149_" gradientUnits="userSpaceOnUse" x1="87.6034" y1="329.2026" x2="90.0732" y2="168.5017">
+	<stop  offset="0" style="stop-color:#1D7EDD"/>
+	<stop  offset="0.1677" style="stop-color:#2889DD"/>
+	<stop  offset="1" style="stop-color:#5BBFDD"/>
+</linearGradient>
+<polygon style="fill:url(#SVGID_00000036940032718039963060000018271366601434838149_);" points="120.9,177.6 121.7,330.1 
+	56.4,364.3 56.4,138.1 "/>
+<polygon class="st5" points="250,177.6 250,98.6 120.9,177.6 185.4,217 "/>
+<linearGradient id="SVGID_00000114031650224012051130000007281491695799177651_" gradientUnits="userSpaceOnUse" x1="232.468" y1="126.1158" x2="358.4323" y2="206.2586">
+	<stop  offset="0" style="stop-color:#8CCAF4"/>
+	<stop  offset="1" style="stop-color:#5BB2FB"/>
+</linearGradient>
+<polygon style="fill:url(#SVGID_00000114031650224012051130000007281491695799177651_);" points="312.2,217 250,177.6 250,98.6 
+	376.7,177.6 "/>
+<polygon class="st7" points="250,254.5 312.2,217 250,177.6 185.4,217 "/>
+<polygon class="st8" points="250,330.1 250,254.5 185.4,217 185.4,291.4 "/>
+<polygon class="st9" points="312.2,290.9 250,330.1 250,254.5 312.2,217 "/>
+<polygon class="st10" points="376.7,254.5 312.2,290.9 312.2,217 376.7,177.6 "/>
+<polygon class="st11" points="185.4,291.4 185.4,367.1 121.7,330.1 120.9,177.6 185.4,217 "/>
+<polygon class="st12" points="312.2,290.9 312.2,366.5 376.7,327.1 376.7,254.5 "/>
+<polygon class="st13" points="250,330.1 312.2,290.9 312.2,366.5 250,404.5 "/>
+<polygon class="st14" points="185.4,291.4 250,330.1 250,404.5 185.4,367.1 "/>
+</svg>
